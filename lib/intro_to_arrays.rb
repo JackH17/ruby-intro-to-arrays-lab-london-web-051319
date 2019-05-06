@@ -35,3 +35,11 @@ def first_element_with_array_methods(first_element_with_array_methods)
 first_element_with_array_methods = @south_east_asia.first 
 
 end
+
+def last_element_with_array_methods(last_element_with_array_methods)
+
+@south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+
+last_element_with_array_methods = @south_east_asia.last 
+
+end
